@@ -1,0 +1,36 @@
+/* to make anything inline */
+nav{display: flex;}
+body{font-family: 'Open Sans', sans-serif;}
+/* copied from open sans */
+.tt{color: #181818;
+    font-family: Open Sans;
+    font-size: 45px;
+    /* font-style: normal; */
+    font-weight: 800;
+    /* line-height: normal; */
+}
+.theam{
+color: #FD6E0A;
+
+}
+nav > ul{
+    display: flex;
+/* list-style: none; */
+
+}
+nav li {
+list-style: none;
+margin-left: 50px;
+}
+nav a{
+text-decoration: none;
+color: #474747;
+}
+
+.x{
+    border-radius: 5px;
+    background: #FD6E0A;
+
+
+
+}
