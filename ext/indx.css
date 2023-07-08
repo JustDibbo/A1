@@ -107,7 +107,7 @@ nav a {
 .about {
     padding: 130px;
     background-color: #FFF8F3;
-    margin: 130px 230px;
+    margin-top: 130px;
 }
 
 .sectit {
@@ -125,5 +125,20 @@ nav a {
     color: ( #757575);
     text-align: center;
     font-size: 18px;
+
+}
+main{
+max-width: 1140px;
+margin: 0 auto;
+/* justify-content: center; */
+
+}
+.aic{
+display: flex;
+justify-content: space-around;
+
+}
+.ai{
+text-align: center;
 
 }
