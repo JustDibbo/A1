@@ -121,24 +121,36 @@ nav a {
 
 
 }
-.secdic{
-    color: ( #757575);
+
+.secdic {
+    color: (#757575);
     text-align: center;
     font-size: 18px;
 
 }
-main{
-max-width: 1140px;
-margin: 0 auto;
-/* justify-content: center; */
+
+main {
+    max-width: 1140px;
+    margin: 0 auto;
+    /* justify-content: center; */
 
 }
-.aic{
-display: flex;
-justify-content: space-around;
+
+.aic {
+    display: flex;
+    justify-content: space-around;
 
 }
-.ai{
-text-align: center;
+
+.ai {
+    text-align: center;
+
+}
+
+#wid {
+    padding: 30px 140px;
+    color: (#757575);
+    text-align: center;
+    font-size: 18px;
 
 }
