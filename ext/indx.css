@@ -219,3 +219,9 @@ main section {
     text-align: center;
     margin-top: 60px;
 }
+footer{
+    display: flex;
+    padding: 130px 200px;
+    background-color: #FFF8F3;
+    margin-top: 50px;
+}
