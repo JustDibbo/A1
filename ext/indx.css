@@ -220,8 +220,27 @@ main section {
     margin-top: 60px;
 }
 footer{
+    gap: 100px;
     display: flex;
     padding: 130px 200px;
     background-color: #FFF8F3;
     margin-top: 50px;
+}
+.foclm{
+    text-align: center;
+    width: 50%;
+}
+.f1 input[type="text"], input[type="email"], textarea{
+    display: block;
+    margin-bottom: 25px;
+    padding: 18px 35px;
+    background-color: #FFF;
+    border: 0;
+    border-radius: 5px;
+    color: #757575;
+    /* align-items: left; */
+    width: 100%;
+}
+.sociallink a{
+    margin-right: 25px;
 }
