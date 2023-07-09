@@ -185,6 +185,37 @@ main section {
 .rclmt {
 
     color: #474747;
-    font-size: 30px;;
+    font-size: 30px;
+    ;
     font-weight: 700;
+}
+
+.rctr {
+    display: flex;
+    gap: 55px;
+}
+
+.resumiid,
+.resumeii {
+    color: #757575;
+
+}
+
+.rclmt {
+    color: #474747;
+    font-size: 25px;
+    font-weight: 700;
+}
+.rctr hr{
+    margin: 30px 0;
+}
+.resumeid{
+    margin-top: 20px;
+}
+.resumeii{
+    margin-top: 10px;
+}
+.ot{
+    text-align: center;
+    margin-top: 60px;
 }
